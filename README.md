@@ -1,1 +1,1 @@
-# Capstone-Project-1-Sistem-Rental-Mobil
+# Capstone-Project-1-Car-Rental-System
